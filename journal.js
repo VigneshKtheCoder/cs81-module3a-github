@@ -21,4 +21,10 @@ function isodd(odd) {
 }
 console.log(`is 5 odd?`, isodd(4));
 
+//Find max in an arrAY
+function findmax(arr) {
+  return Math.max(...arr);
+}
+console.log(`Max of [1,4,5,8,6] is`, findmax([1,4,5,8,6]));
+
 
