@@ -4,4 +4,4 @@
 
 3) Developers use git because it keeps track of every change made to a project, which makes it easy to undo mistake, work with others on the same repo, and also understand the history of a project using the commits. Developers can coordinate collaboration by letting multiple people work on the same codebase without overwriting the code.
 
-4) 
+4) This can help with larger projects in the future since git and github can help developers manage code easily and efficiently. Other team members can collaborate together without any confusion or progress being lost or stolen. The features of Git and the browser help merge code when it is ready and it is easily accessible too. 
